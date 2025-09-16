@@ -1,0 +1,10 @@
+---
+internalid: queenbee
+name: Queen Bee
+maxhp: 3400
+forms: 1
+form1:
+  def: 8
+  attacks: 2
+  atk1: 30
+  atk2: 22

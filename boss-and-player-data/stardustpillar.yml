@@ -1,0 +1,17 @@
+---
+internalid: stardustpillar
+name: Stardust Pillar
+maxhp: 20100
+forms: 1
+form1:
+  def: 20
+  attacks: 9
+  atk1: 70
+  atk2: 120
+  atk3: 80
+  atk4: 120
+  atk5: 70
+  atk6: 80
+  atk7: 90
+  atk8: 80
+  atk9: 70

@@ -1,0 +1,15 @@
+---
+internalid: vortexpillar
+name: Vortex Pillar
+maxhp: 20100
+forms: 1
+form1:
+  def: 20
+  attacks: 7
+  atk1: 75
+  atk2: 50
+  atk3: 100
+  atk4: 120
+  atk5: 100
+  atk6: 150
+  atk7: 90

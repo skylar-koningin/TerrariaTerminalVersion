@@ -1,0 +1,10 @@
+---
+internalid: skeletron
+name: Skeletron
+maxhp: 5600
+forms: 1
+form1:
+  def: 7
+  attacks: 2
+  atk1: 32
+  atk2: 20

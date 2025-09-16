@@ -1,0 +1,17 @@
+---
+internalid: solarpillar
+name: Solar Pillar
+maxhp: 20100
+forms: 1
+form1:
+  def: 20
+  attacks: 9
+  atk1: 70
+  atk2: 120
+  atk3: 80
+  atk4: 55
+  atk5: 80
+  atk6: 90
+  atk7: 80
+  atk8: 108
+  atk9: 120

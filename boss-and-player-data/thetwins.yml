@@ -1,0 +1,21 @@
+---
+internalid: thetwins
+name: The Twins
+maxhp: 43000
+formswitch: 8100
+forms: 2
+form1:
+  def: 10
+  attacks: 4
+  atk1: 45
+  atk2: 40
+  atk3: 50
+  atk4:50
+form2:
+  def: 10
+  attacks: 5
+  atk1: 67
+  atk2: 50
+  atk3: 36
+  atk4: 75
+  atk6: 60

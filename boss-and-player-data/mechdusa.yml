@@ -1,0 +1,39 @@
+---
+internalid: mechdusa
+name: Mechdusa
+maxhp: 273000
+forms: 2
+form1:
+  def: 23
+  attacks: 13
+  atk1: 45
+  atk2: 40
+  atk3: 50
+  atk4: 50
+  atk5: 70
+  atk6: 44
+  atk7: 30
+  atk8: 80
+  atk9: 59
+  atk10: 52
+  atk11: 29
+  atk12: 50
+  atk13: 47
+form2:
+  def: 23
+  attacks: 14
+  atk1: 67
+  atk2: 50
+  atk3: 36
+  atk4: 75
+  atk5: 60
+  atk6: 70
+  atk7: 44
+  atk8: 30
+  atk9: 80
+  atk10: 59
+  atk11: 52
+  atk12: 29
+  atk13: 50
+  atk14: 47
+  

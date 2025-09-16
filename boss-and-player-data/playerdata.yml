@@ -1,0 +1,20 @@
+---
+name: Skylar Koningin
+class: melee
+weapon: Arkhalis
+math:
+  maxhp: 100
+  potionheal: 50
+  def: 20
+  dmg: 25
+lbd: 
+feb: eaterofworlds
+mechs:
+  thetwins: 1
+  thedestroyer: 3
+  skeletronprime: 2
+pillars:
+  solar: 1
+  nebula: 4
+  vortex: 2
+  stardust: 3

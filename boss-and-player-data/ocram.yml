@@ -1,0 +1,16 @@
+---
+internalid: ocramw
+name: Ocram
+maxhp: 175000
+formswitch: 87500
+forms: 2
+form1:
+  def: 60
+  attacks: 1
+  atk1: 65
+form2:
+  def: 60
+  attacks: 3
+  atk1: 130
+  atk2: 180
+  atk3: 140

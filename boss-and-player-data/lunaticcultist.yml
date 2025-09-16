@@ -1,0 +1,28 @@
+---
+internalid: lunaticcultist
+name: Lunatic Cultist
+maxhp: 32000
+formswitch: 16000
+forms: 2
+form1:
+  def: 42
+  attacks: 8
+  atk1: 50
+  atk2: 36
+  atk3: 70
+  atk4: 60
+  atk5: 90
+  atk6: 120
+  atk7: 30
+  atk8: 60
+form2:
+  def: 27
+  attacks: 8
+  atk1: 50
+  atk2: 36
+  atk3: 70
+  atk4: 60
+  atk5: 90
+  atk6: 120
+  atk7: 30
+  atk8: 60

@@ -1,0 +1,15 @@
+---
+internalid: nebulapillar
+name: Nebula Pillar
+maxhp: 20100
+forms: 1
+form1:
+  def: 20
+  attacks: 7
+  atk1: 70
+  atk2: 90
+  atk3: 100
+  atk4: 75
+  atk5: 130
+  atk6: 80
+  atk7: 120

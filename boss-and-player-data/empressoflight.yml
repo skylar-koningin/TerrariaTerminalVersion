@@ -1,0 +1,25 @@
+---
+internalid: empressoflight
+name: Empress of Light
+maxhp: 70000
+formswitch: 35000
+forms: 2
+form1:
+  def: 50
+  attacks: 6
+  atk1: 80
+  atk2: 120
+  atk3: 90
+  atk4: 100
+  atk5: 90
+  atk6: 100
+form2:
+  def: 60
+  attacks: 7
+  atk1: 80
+  atk2: 120
+  akt3: 100
+  atk4: 120
+  atk5: 100
+  atk6: 120
+  atk7: 130

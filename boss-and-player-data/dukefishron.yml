@@ -1,0 +1,19 @@
+---
+internalid: dukefishron
+name: Duke Fishron
+maxhp: 60000
+formswitch: 30000
+forms: 2
+form1:
+  def: 50
+  attacks: 4
+  atk1: 100
+  atk2: 200
+  atk3: 80
+  atk4: 100
+form2:
+  def: 40
+  attacks: 3
+  atk1: 120
+  atk2: 200
+  akt3: 160

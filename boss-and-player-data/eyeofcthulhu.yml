@@ -1,0 +1,14 @@
+---
+internalid: eyeofcthulhu
+name: Eye of Cthulhu
+maxhp: 2800
+formswitch: 1400
+forms: 2
+form1:
+  def: 12
+  attacks: 1
+  atk1: 15
+form2:
+  def: 0
+  attacks: 1
+  atk1: 23

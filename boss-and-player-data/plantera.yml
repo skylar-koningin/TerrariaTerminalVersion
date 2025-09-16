@@ -1,0 +1,17 @@
+---
+internalid: plantera
+name: Plantera
+maxhp: 30000
+formswitch: 15000
+forms: 2
+form1:
+  def: 36
+  attacks: 4
+  atk1: 50
+  atk2: 44
+  atk3: 54
+  atk4: 62
+form2:
+  def: 60
+  attacks: 1
+  atk1: 70

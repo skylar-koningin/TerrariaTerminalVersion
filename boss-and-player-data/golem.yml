@@ -1,0 +1,18 @@
+---
+internalid: golem
+name: Golem
+maxhp: 60000
+formswitch: 30000
+forms: 2
+form1:
+  def: 24
+  attacks: 4
+  atk1: 64
+  atk2: 47
+  atk3: 56
+  atk4: 59
+form2:
+  def: 29
+  attacks: 2
+  atk1: 72
+  atk2: 80

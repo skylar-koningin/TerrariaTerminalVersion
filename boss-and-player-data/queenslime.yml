@@ -1,0 +1,11 @@
+---
+internalid: queenslime
+name: Queen Slime
+maxhp: 18000
+forms: 1
+form1:
+  def: 26
+  attacks: 2
+  atk1: 60
+  atk2: 80
+  atk3: 60

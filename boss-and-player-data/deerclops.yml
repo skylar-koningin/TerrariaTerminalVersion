@@ -1,0 +1,12 @@
+---
+internalid: deerclops
+name: Deerclops
+maxhp: 7000
+forms: 1
+form1:
+  def: 10
+  attacks: 4
+  atk1: 20
+  atk2: 26
+  atk3: 36
+  atk4: 20

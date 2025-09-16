@@ -1,0 +1,23 @@
+---
+internalid: moonlord
+name: Moon Lord
+maxhp: 145000
+forms: 2
+form1:
+  def: 45
+  attacks: 6
+  atk1: 150
+  atk2: 60
+  atk3: 80
+  atk4: 80
+  atk5: 60
+  atk6: 60
+form2:
+  def: 70
+  attacks: 6
+  atk1: 150
+  atk2: 60
+  atk3: 80
+  atk4: 80
+  atk5: 60
+  atk6: 60

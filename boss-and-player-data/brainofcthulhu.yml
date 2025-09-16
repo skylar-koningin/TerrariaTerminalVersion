@@ -1,0 +1,9 @@
+---
+internalid: brainofcthulhu
+name: Brain of Cthulhu
+maxhp: 3250
+forms: 1
+form1:
+  def: 14
+  attacks: 1
+  atk1: 30

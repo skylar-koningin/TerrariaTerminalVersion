@@ -1,0 +1,10 @@
+---
+internalid: thedestroyer
+name: The Destroyer
+maxhp: 80000
+forms: 1
+form1:
+  def: 35
+  attacks: 2
+  atk1: 70
+  atk2: 44

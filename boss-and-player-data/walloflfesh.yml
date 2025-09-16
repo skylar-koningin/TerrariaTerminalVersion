@@ -1,0 +1,9 @@
+---
+internalid: wallofflesh
+name: Wall of Flesh
+maxhp: 8000
+forms: 1
+form1:
+  def: 12
+  attacks: 1
+  atk1: 50

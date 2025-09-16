@@ -1,0 +1,16 @@
+---
+internalid: skeletronprime
+name: Skeletron Prime
+maxhp: 28000
+forms: 1
+form1:
+  def: 36
+  attacks: 8
+  atk1: 47
+  atk2: 84
+  atk3: 30
+  atk4: 80
+  atk5: 56
+  atk6: 52
+  atk7: 29
+  atk8: 50
